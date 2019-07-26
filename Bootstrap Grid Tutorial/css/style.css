@@ -1,0 +1,15 @@
+* {
+    /*margin-top: 1em;*/
+    font-size: 1.05em; /*only enable for second example*/
+}
+
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-6, .col-xs-8, .col-xs-9,
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-6, .col-md-8, .col-md-9,
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-6, .col-sm-8, .col-sm-9 {
+    background-color: #34495e;
+    /*opacity: 0.8;*/ /* enable for exmaple 4 only*/
+    color: white;
+    line-height: 5em;
+    border: 1px solid white;
+    height: 5em;
+}
